@@ -8,9 +8,8 @@
 
 <div align="center">
   <img height="200" src="https://media.tenor.com/UTuHlN24PigAAAAd/jim-carrey-chat.gif"  />
+  <img height="200" src="https://contentstatic.techgig.com/thumb/msid-77344884,width-460,resizemode-4/5-Tips-to-land-your-first-job-as-a-software-developer.jpg?67629"  />
 </div>
-
-###
 
 <div style="display:inline; width:100%" align="center">
     <h2>Habilidades</h2>
