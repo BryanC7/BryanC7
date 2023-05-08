@@ -4,8 +4,11 @@
     <p>Soy <b>@BryanC7</b></p> 
     <p>De Valparaíso, Chile</p>
     <p>En proceso de aprendizaje para ser un excelente desarrollador de software</p>
-    <p>Formo parte de un bootcamp de Full Stack JavaScript</p> 
-</div>                                                                                                       
+</div>
+
+<div align="center">
+    <img height="200" src="https://media.tenor.com/UTuHlN24PigAAAAd/jim-carrey-chat.gif"  />
+</div>
 
 <div style="display:inline; width:100%" align="center">
     <h2>Habilidades</h2>
