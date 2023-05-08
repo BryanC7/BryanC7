@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    <img height="200" src="https://media.tenor.com/UTuHlN24PigAAAAd/jim-carrey-chat.gif"  />
+    ![](https://media.tenor.com/UTuHlN24PigAAAAd/jim-carrey-chat.gif)
 </div>
 
 <div style="display:inline; width:100%" align="center">
