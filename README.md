@@ -6,7 +6,11 @@
     <p>En proceso de aprendizaje para ser un excelente desarrollador de software</p>
 </div>
 
-![](https://media.tenor.com/UTuHlN24PigAAAAd/jim-carrey-chat.gif)
+<div align="center">
+  <img height="200" src="https://media.tenor.com/UTuHlN24PigAAAAd/jim-carrey-chat.gif"  />
+</div>
+
+###
 
 <div style="display:inline; width:100%" align="center">
     <h2>Habilidades</h2>
