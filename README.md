@@ -2,8 +2,8 @@
 <div align="left">
     <h2>Que tal! 👋</h2>
     <p>Soy <b>@BryanC7</b></p> 
-    <p>De Valparaíso, Chile</p>
-    <p>En proceso de aprendizaje para ser un excelente desarrollador de software</p>
+    <p>De la región de Valparaíso, Chile</p>
+    <p>En proceso de aprendizaje para ser un excelente desarrollador</p>
 </div>
 
 <div align="center">
