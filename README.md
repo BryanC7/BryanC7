@@ -1,7 +1,7 @@
 
 <div align="center">
     <h1>Hi! 👋, I'm <b>Bryan Cabrera</b></h1>
-    <p>From Valparaíso, Chile</p>
+    <p>From Valparaíso, Chile 🇨🇱</p>
     <p>In the process of learning to be an excellent developer</p>
 </div>
 
@@ -22,5 +22,5 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" width="52" alt="sequelize logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vuejs logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original.svg" height="40" width="52" alt="springboot logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"  />
 </div>
