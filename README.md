@@ -9,6 +9,11 @@
   <img height="200" src="https://www.topito.com/wp-content/uploads/2013/01/code-21.gif"  />
 </div>
 
+### About Me:
+
+- Full Stack Developer Java & Javascript
+- :link: Connect with me in LinkedIn --> <a href="https://www.linkedin.com/in/bryan-alexander-cabrera-molina-09639a23a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="linkedin" height="30" width="25"/></a>
+
 <div style="display:inline; width:100%" align="center">
     <h2>Skills</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
